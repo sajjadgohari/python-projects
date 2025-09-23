@@ -1,0 +1,6 @@
+# Ignore task data file
+tasks.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
